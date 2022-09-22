@@ -30,5 +30,5 @@ var btncontacts = $('.btn-contacts');
 var boxcontacts = $('.box-contacts');
 
 btncontacts.on('click', function () {
-  boxcontacts.fadeToggle(2000);
+  boxcontacts.fadeToggle(1000);
 })
