@@ -22,9 +22,9 @@ btnAchievements2.on('click', function () {
 var btnAchievements3 = $('.btn-achievements3');
 var boxAchievements3 = $('.box-achievements3');
 
-btnAchievements3.on('click', function () {
+ btnAchievements3.on('click', function () {
   boxAchievements3.fadeToggle(2000);
-})
+ })
 
 var btncontacts = $('.btn-contacts');
 var boxcontacts = $('.box-contacts');
