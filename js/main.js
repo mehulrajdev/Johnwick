@@ -29,6 +29,8 @@ var boxAchievements3 = $('.box-achievements3');
 var btncontacts = $('.btn-contacts');
 var boxcontacts = $('.box-contacts');
 
+
+ 
 btncontacts.on('click', function () {
   boxcontacts.fadeToggle(1000);
 })
