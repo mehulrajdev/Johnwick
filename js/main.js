@@ -7,8 +7,11 @@ btn.on('click', function () {
   box.fadeToggle(2000);
 })
 
+
+
 var btnAchievements = $('.btn-achievements');
 var boxAchievements = $('.box-achievements');
+
 
 btnAchievements.on('click', function () {
   boxAchievements.fadeToggle(2000);
@@ -36,3 +39,5 @@ var boxcontacts = $('.box-contacts');
 btncontacts.on('click', function () {
   boxcontacts.fadeToggle(1000);
 })
+
+
