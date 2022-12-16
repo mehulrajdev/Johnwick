@@ -5,6 +5,7 @@ btn.on('click', function () {
   box.fadeToggle(2000);
 })
 
+
 var btnAchievements = $('.btn-achievements');
 var boxAchievements = $('.box-achievements');
 
