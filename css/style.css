@@ -98,8 +98,13 @@ body > header > section > div.left > p:nth-child(3){
 
 .box-style {
     display: none;
+<<<<<<< HEAD
     padding-bottom: 40px;
     padding-top: 40px;
+=======
+    /* padding-bottom: 40px;
+    padding-top: 40px; */
+>>>>>>> 187790f (edited style.css)
     color: #fdfdfd;
 }
 
@@ -111,9 +116,15 @@ body > header > section > div.left > p:nth-child(3){
 
 
 
+<<<<<<< HEAD
 body > div.box-contacts.box-style{
   padding-left: 100px;
 }
+=======
+/* body > div.box-contacts.box-style{
+  padding-left: 100px;
+} */
+>>>>>>> 187790f (edited style.css)
 
 
 a{
@@ -129,4 +140,8 @@ body > header > section > div.left > img:nth-child(6){
   height: 70px;
 }
 
+<<<<<<< HEAD
 
+=======
+/*https://u.pcloud.link/publink/show?code=kZysghVZGwtxCXp8vn0fzVr3gia7UmAK8OqV
+>>>>>>> 187790f (edited style.css)
