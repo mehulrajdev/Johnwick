@@ -1,0 +1,132 @@
+
+*{
+  margin: 0;
+  padding: 0;
+  background-color:   #1a2536ba;
+}
+
+body{
+  font-family:'Times New Roman', Times, serif
+  
+}
+
+
+.first{
+  display: flex;
+  padding-bottom: 80px;
+  padding-top: 40px;
+  
+}
+
+.left{
+  margin-left: 80px;
+  width: 55%;
+}
+
+.right{
+  margin-right: 75px;
+}
+
+.right img{
+  height: 450px;
+}
+
+.left h1{
+  font-size: 50px;
+}
+
+
+
+.left p{
+  width: 65%;
+  margin: 12px 0px;
+  font-size: 26px;
+}
+
+body > header > section > div.left > p:nth-child(3){
+  color: white;
+}
+
+
+
+
+
+.second h1{
+    
+    font-size: 80px;
+    padding-left: 80px;
+}
+
+.second p{
+  padding-left: 80px;
+  padding-bottom: 40px;
+  font-size: 15px;
+
+}
+
+
+.nav-items{
+  display: flex;
+  list-style: none;
+  justify-content: center;    
+}
+
+.nav-items li {
+  margin: 0 20px;
+}
+.nav-items li button{
+  font-size: 20px;
+  font-weight: 1000;
+}
+
+.nav-items li button:hover{
+  color: #03a87c;
+}
+
+
+
+
+
+
+
+.btn-style {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  
+  
+}
+
+.box-style {
+    display: none;
+    /* padding-bottom: 40px;
+    padding-top: 40px; */
+    color: #fdfdfd;
+}
+
+
+.box-style p{
+  font-size: 20px;
+  padding: 40px;
+}
+
+
+
+/* body > div.box-contacts.box-style{
+  padding-left: 100px;
+} */
+
+
+a{
+  color: #03a87c;
+}
+
+
+
+body > header > section > div.left > img:nth-child(5){
+  height: 70px;
+}
+body > header > section > div.left > img:nth-child(6){
+  height: 70px;
+}
+
+/*https://u.pcloud.link/publink/show?code=kZysghVZGwtxCXp8vn0fzVr3gia7UmAK8OqV
