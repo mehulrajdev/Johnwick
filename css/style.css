@@ -109,7 +109,10 @@ body > header > section > div.left > p:nth-child(3){
   padding: 40px;
 }
 
-
+#jw{
+  margin: 24px;
+  width: 1000px;
+}
 
 /* body > div.box-contacts.box-style{
   padding-left: 100px;
