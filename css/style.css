@@ -132,6 +132,42 @@ body > header > section > div.left > img:nth-child(6){
   height: 70px;
 }
 
+
+@media screen and (max-width:640px){
+
+  .first {
+    padding: 120px;
+ }
+ .left {
+     padding: 40px;
+     text-align: justify;
+ }
+ .left p {
+     margin: 12px 0px;
+     font-size: 40px;
+ }
+ .right img{
+   height: 540px;
+ }
+ .nav-items{
+   justify-content: flex-end;
+ }
+ .cp{
+   display: none;
+ }
+ .body{
+   background-color: black;
+   color: brown;
+ }
+ .nav-items li{
+   background-color: bisque;
+ }
+ .nav-items li button{
+   background-color: beige;
+ }
+  
+}  
+
 /*https://u.pcloud.link/publink/show?code=kZysghVZGwtxCXp8vn0fzVr3gia7UmAK8OqV
 
 
