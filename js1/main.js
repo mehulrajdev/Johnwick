@@ -39,3 +39,4 @@ var boxcontacts = $('.box-contacts');
 btncontacts.on('click', function () {
   boxcontacts.fadeToggle(2000);
 })
+
